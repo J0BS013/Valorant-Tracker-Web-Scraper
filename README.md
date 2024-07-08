@@ -1,12 +1,17 @@
 # Valorant Tracker Web Scraper
 
 This project is a tool for extracting Valorant player statistics from [tracker.gg](https://tracker.gg) using Selenium and pandas. The script collects data from multiple players and generates a DataFrame containing detailed information about the players, such as name, total playing time and total number of matches.
-## Tecnologias e Bibliotecas Necessárias
+
+<img src="players.png">
+
+
+## Technologies and Libraries Needed
 
 - [Python](https://www.python.org/) 3.12.4
 - [Selenium](https://www.selenium.dev/)
 - [Webdriver_manager](https://pypi.org/project/webdriver-manager/)
 - [Pandas](https://pandas.pydata.org/)
+
 
 ## Installation
 
